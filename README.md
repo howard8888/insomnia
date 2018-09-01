@@ -8,4 +8,5 @@ Schneider, H.
 
 Treating Insomnia-- Psychotherapy (CBT-I) and Psychopharmacology
 
+(PowerPoint slides from the presentation can be downloaded from this GitHub page.)
 
